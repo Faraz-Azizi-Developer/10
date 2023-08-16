@@ -4,7 +4,7 @@
 
 ![image psd](https://github.com/Faraz-Azizi-Developer/10/assets/140517125/34c0099f-fad5-4e8d-a7cc-3bf83dacaae3)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![image psd (1)](https://github.com/Faraz-Azizi-Developer/10/assets/140517125/03224800-927c-49ae-930b-89e69b1f3521)
 
 - [Demo Project](https://faraz-azizi-developer.github.io/10/)
 
